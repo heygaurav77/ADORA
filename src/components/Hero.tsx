@@ -8,14 +8,14 @@ export function Hero() {
       />
       <div className="absolute inset-0 bg-black/5" />
       <div className="absolute bottom-12 left-8 md:left-16 max-w-lg">
-        <h1 className="text-3xl md:text-4xl font-bold tracking-tight mb-2 text-white drop-shadow-sm">
-          Men's Sneakers
+        <h1 className="text-3xl md:text-4xl font-bold tracking-tight mb-2 text-white drop-shadow-sm uppercase">
+          New Collection 2026
         </h1>
         <p className="text-white/90 text-sm md:text-base mb-6 font-medium drop-shadow-sm">
-          Shop men's sneakers. Discover casual leather and suede styles perfect for your laid-back wardrobe.
+          Discover ADORA's premium range of organic cotton t-shirts, hoodies, and footwear designed for modern comfort.
         </p>
         <button className="bg-white/90 backdrop-blur-sm text-black px-4 py-2 text-xs font-bold uppercase tracking-wider hover:bg-white transition-colors">
-          29 products
+          Explore All
         </button>
       </div>
     </div>

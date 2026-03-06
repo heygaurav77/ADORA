@@ -69,7 +69,7 @@ export default function Home() {
            <div className="flex gap-8">
              <span>Poland / English</span>
            </div>
-           <div>© 2026 abloke</div>
+           <div>© 2026 ADORA</div>
            <div className="flex gap-8">
              <span>Terms & Conditions</span>
            </div>

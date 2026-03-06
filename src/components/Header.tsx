@@ -12,14 +12,15 @@ export function Header() {
             <Menu className="w-5 h-5" />
           </button>
           <div className="hidden md:flex gap-4 text-xs font-medium uppercase tracking-tight text-gray-500">
-            <Link href="#" className="hover:text-black">Men</Link>
+            <Link href="#" className="hover:text-black">New In</Link>
+            <Link href="#" className="hover:text-black">Clothing</Link>
+            <Link href="#" className="hover:text-black">T-Shirts</Link>
             <Link href="#" className="hover:text-black">Shoes</Link>
-            <Link href="#" className="text-black">Sneakers</Link>
           </div>
         </div>
 
-        <Link href="/" className="absolute left-1/2 -translate-x-1/2 text-2xl font-bold tracking-tighter">
-          abloke
+        <Link href="/" className="absolute left-1/2 -translate-x-1/2 text-2xl font-bold tracking-[0.15em] uppercase">
+          ADORA
         </Link>
 
         <div className="flex items-center gap-1 md:gap-4 text-sm font-medium">
